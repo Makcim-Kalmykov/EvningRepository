@@ -37,3 +37,4 @@
 * *git merge branch_name* - сливает текущую (current) ветку с веткой branch_name; 
 
 * *git branch branch_name* - команда, создающая ветку с именем branch_name
+* *git checkout branch_name* - переход на ветку с именем branch_checkout;
