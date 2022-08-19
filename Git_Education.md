@@ -41,3 +41,4 @@
 * *git branch branch_name* - команда, создающая ветку с именем branch_name
 * *git checkout branch_name* - переход на ветку с именем branch_checkout;
 * *git reset HEAD~* - отмена последнего коммита
+* *git remote -v* - показать список удаленных репозиториев
